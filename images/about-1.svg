@@ -1,0 +1,29 @@
+<svg id="stats" xmlns="http://www.w3.org/2000/svg" width="90" height="33" viewBox="0 0 90 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3655c6;
+      }
+
+      .cls-2 {
+        fill: #42c3af;
+      }
+
+      .cls-3 {
+        fill: #8440f4;
+      }
+
+      .cls-4 {
+        fill: #f2b115;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="19" width="6" height="14" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-2" x="12" y="8" width="6" height="25" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" class="cls-3" x="24" y="13" width="6" height="20" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_3" data-name="Rectangle 3 copy 3" class="cls-4" x="36" width="6" height="33" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_4" data-name="Rectangle 3 copy 4" class="cls-2" x="48" y="15" width="6" height="18" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_5" data-name="Rectangle 3 copy 5" class="cls-1" x="60" y="8" width="6" height="25" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_6" data-name="Rectangle 3 copy 6" class="cls-4" x="72" y="4" width="6" height="29" rx="3" ry="3"/>
+  <rect id="Rectangle_3_copy_7" data-name="Rectangle 3 copy 7" class="cls-2" x="84" y="20" width="6" height="13" rx="3" ry="3"/>
+</svg>
