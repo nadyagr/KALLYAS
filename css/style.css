@@ -685,6 +685,15 @@ body{
 .footer-adress__item {
 	margin-bottom: 30px;
 }
+.footer-adress__item{
+	margin-bottom: 25px;
+}
+a.footer-adress__item{
+	color: #fff;
+	display: block;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
 .footer__mail a{
 	color: #fff;
 	text-decoration: none;
