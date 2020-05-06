@@ -269,8 +269,6 @@
 	.footer__content{
 		margin-top: 80px;
 		margin-bottom: 50px;
-		/*display: block;
-		text-align: center;*/
 		flex-wrap: wrap;
 		justify-content: space-around;
 	}
@@ -288,7 +286,16 @@
 	.footer-adress__item{
 		margin-bottom: 0;
 	}
-}
+	.footer-adress__item{
+		margin-bottom: 25px;
+	}
+	a.footer-adress__item{
+		color: #fff;
+		display: block;
+		text-decoration: none;
+		margin-bottom: 10px;
+	}
+	}
 
 @media(max-width: 750px){
 	.about-card__horizontal{
